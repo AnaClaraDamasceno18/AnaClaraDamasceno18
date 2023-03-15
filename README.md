@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there ✧.* ˚ ✦   🌻
+![DAykGM_XkAEpSDV](https://user-images.githubusercontent.com/127156241/225168957-6783ab2b-41f4-4532-8095-fb7b8a91e4b6.jpg)
+
+
 ![Ana Clara Damasceno GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaClaraDamasceno18&show_icons=true&theme=gruvbox) 
 ![plantinha](https://user-images.githubusercontent.com/127156241/225166885-cb2feb4f-572b-4da8-8269-38f123e0efb5.gif) 
 <!-- "COMENTÁRIO -->
