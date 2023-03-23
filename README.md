@@ -24,5 +24,5 @@
     <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-8ec07c?style=for-the-badge&logo=react&logoColor=black" />
 </div></br>
 
-- 🌱 I’m currently learning programming logic
+- 🌱 I’m currently learning Data Bank______
 - 😄 Pronouns: she/her
